@@ -5,6 +5,7 @@ This website was designed for the first portfolio Project in my code institute c
 
 The website can be directly reached through the following link: <a href="https://niall71.github.io/Project-1-with-template/" target="_blank"> Speciality Coffee </a>
 
+
 ## Features of the Site
 
 This website is fairly sparse and was purposfully designed so that I could quickly understand changes that I implemented.
@@ -30,3 +31,12 @@ Each image is clearly labeled and there is alt text descriptors for site users w
 <img width="619" alt="Screenshot 2024-03-24 at 20 24 01" src="https://github.com/Niall71/Project-1-with-template/assets/152639680/04df6022-85fd-459d-86d2-8922bc0a2981">
 
 In the Contact Us section there is a clickable link which opens facebook in a new tab. The facebook icon is properly styled using the facebook template from font awesome. Additionally this button is accessible to those using screen readers as there is alt text and an explanation that this button opens in a new tab.
+
+### Copyright in footer
+
+<img width="394" alt="Screenshot 2024-03-24 at 20 29 01" src="https://github.com/Niall71/Project-1-with-template/assets/152639680/41e028a9-4927-4cf9-9177-ea0bc49954e6">
+
+A copyright section with the correct symbol is clearly and properly displayed at the bottom of the screen.
+
+
+
