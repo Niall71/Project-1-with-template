@@ -25,3 +25,8 @@ There is a simple and easy to view image gallery. It simply displays images of c
 
 Each image is clearly labeled and there is alt text descriptors for site users who are using screen reaaders. The images are spaced apart from each other and the site was designed that they keep their position no matter the size of screen that is being used. 
 
+### Clickable Link
+
+<img width="619" alt="Screenshot 2024-03-24 at 20 24 01" src="https://github.com/Niall71/Project-1-with-template/assets/152639680/04df6022-85fd-459d-86d2-8922bc0a2981">
+
+In the Contact Us section there is a clickable link which opens facebook in a new tab. The facebook icon is properly styled using the facebook template from font awesome. Additionally this button is accessible to those using screen readers as there is alt text and an explanation that this button opens in a new tab.
