@@ -51,6 +51,10 @@ The site has been successfully validated using the W3C CSS Validation Service an
 
 No issues were shown with either serivce and while deploying through github no bugs are other deployment issues were noted.
 
+## Accessibility 
+
+This site was designed to be fully accessible. There is a high degree of contrast between the background and lettering. The site is fully accessible for people using screen readers with alt text and descriptors. The site is clearly laid out.
+
 ## Site Development
 
 I developed this site using Visual Studio Code. I heavily relied upon the Introduction to HTML and Introduction to CSS courses on Code Institute, and the examples which I worked through on the LMS. This site was coded on my desktop version of VSC and copied directly to the github files which I created.
