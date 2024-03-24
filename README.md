@@ -53,7 +53,7 @@ No issues were shown with either serivce and while deploying through github no b
 
 ## Site Development
 
-I developed this site using Visual Studio Code. I heavily relied upon the Introduction to HTML and Introduction to CSS courses on Code Institute, and the examples which I worked through on the LMS.
+I developed this site using Visual Studio Code. I heavily relied upon the Introduction to HTML and Introduction to CSS courses on Code Institute, and the examples which I worked through on the LMS. This site was coded on my desktop version of VSC and copied directly to the github files which I created.
 
 Additionally I used code directly from font awesome to integrate the free to use font awesome facebook logo
 
@@ -62,3 +62,4 @@ Additionally I used code directly from font awesome to integrate the free to use
 On github I directly used the Code Institute Git Template. This allowed me to deploy a live site through github. 
 
 All images on the site are copyright free and are hosted on pexel. These images are directly linked live to pexel.
+ 
