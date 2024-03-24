@@ -32,6 +32,10 @@ Each image is clearly labeled and there is alt text descriptors for site users w
 
 In the Contact Us section there is a clickable link which opens facebook in a new tab. The facebook icon is properly styled using the facebook template from font awesome. Additionally this button is accessible to those using screen readers as there is alt text and an explanation that this button opens in a new tab.
 
+### Mobile Friendly
+
+The site resizes itself to accomodate different screen sizes. The text and images stay legible and visibile. I used semantic elements to put emphasise on specific sections and to make navigation and reading easier. This includes the header and footer and the centering of text.
+
 ### Copyright in footer
 
 <img width="394" alt="Screenshot 2024-03-24 at 20 29 01" src="https://github.com/Niall71/Project-1-with-template/assets/152639680/41e028a9-4927-4cf9-9177-ea0bc49954e6">
