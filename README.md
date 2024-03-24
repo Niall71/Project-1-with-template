@@ -55,6 +55,8 @@ No issues were shown with either serivce and while deploying through github no b
 
 I developed this site using Visual Studio Code. I heavily relied upon the Introduction to HTML and Introduction to CSS courses on Code Institute, and the examples which I worked through on the LMS. This site was coded on my desktop version of VSC and copied directly to the github files which I created.
 
+I composed the text in the history section of the site on my computers text editor. The historical information I used was primarily from a class on coffee tasting which I recently attended at Caffenation Amsterdam.
+
 Additionally I used code directly from font awesome to integrate the free to use font awesome facebook logo
 
 <img width="667" alt="Screenshot 2024-03-24 at 20 44 23" src="https://github.com/Niall71/Project-1-with-template/assets/152639680/6f442f0d-feab-4bce-be5a-9e768a1054df">
@@ -62,4 +64,9 @@ Additionally I used code directly from font awesome to integrate the free to use
 On github I directly used the Code Institute Git Template. This allowed me to deploy a live site through github. 
 
 All images on the site are copyright free and are hosted on pexel. These images are directly linked live to pexel.
- 
+
+## Acknowledgements
+
+I would like to thank the Florian and Ahmed at Caffenation Amsterdam for the coffee theme inspiration. I would also like to thank Amy my cohort coordinator for checking in. 
+
+This website was created by me Niall Sherlock for my first portfolio project with code institute.
