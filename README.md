@@ -51,4 +51,14 @@ The site has been successfully validated using the W3C CSS Validation Service an
 
 No issues were shown with either serivce and while deploying through github no bugs are other deployment issues were noted.
 
+## Site Development
 
+I developed this site using Visual Studio Code. I heavily relied upon the Introduction to HTML and Introduction to CSS courses on Code Institute, and the examples which I worked through on the LMS.
+
+Additionally I used code directly from font awesome to integrate the free to use font awesome facebook logo
+
+<img width="667" alt="Screenshot 2024-03-24 at 20 44 23" src="https://github.com/Niall71/Project-1-with-template/assets/152639680/6f442f0d-feab-4bce-be5a-9e768a1054df">
+
+On github I directly used the Code Institute Git Template. This allowed me to deploy a live site through github. 
+
+All images on the site are copyright free and are hosted on pexel. These images are directly linked live to pexel.
