@@ -39,4 +39,16 @@ In the Contact Us section there is a clickable link which opens facebook in a ne
 A copyright section with the correct symbol is clearly and properly displayed at the bottom of the screen.
 
 
+## Validation
+
+The site has been successfully validated using the W3C CSS Validation Service and W3C HTML Validation Service. 
+
+<img width="789" alt="Screenshot 2024-03-24 at 19 34 47" src="https://github.com/Niall71/Project-1-with-template/assets/152639680/0dbb53c5-4770-4fc6-b19a-05c093f66fbe">
+
+
+
+<img width="1434" alt="Screenshot 2024-03-24 at 19 35 29" src="https://github.com/Niall71/Project-1-with-template/assets/152639680/e3929f0f-2757-4630-9697-99fd8535ef23">
+
+No issues were shown with either serivce and while deploying through github no bugs are other deployment issues were noted.
+
 
